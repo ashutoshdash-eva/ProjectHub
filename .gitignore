@@ -1,2 +1,4 @@
 node_modules
 dist
+/project_1/node_modules
+/project_2/node_modules
